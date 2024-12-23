@@ -18,8 +18,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/AlXew/count.svg) v
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=AlXew&theme=dracula)
 
-![Visitor Count](https://profile-counter.glitch.me/ALXew/count.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlXew&layout=compact&theme=tokyonight)
 
 ![](https://img.shields.io/badge/c-1.0-brightgreen)
