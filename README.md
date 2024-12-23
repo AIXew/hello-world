@@ -21,6 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/AlXew/count.svg) v
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlXew&layout=compact&theme=tokyonight)
 
 ![](https://img.shields.io/badge/c-1.0-brightgreen)
+[![Stargazers over time](https://starchart.cc/WinterChenS/my-site.svg?variant=adaptive)](https://starchart.cc/WinterChenS/my-site)
 
 ### 智能家居设计
 ### 本次主要使用的单片机是stm32f103zet6，使用的WiFi模块是esp8266，oled显示屏和DHT11(温湿度传感器)
